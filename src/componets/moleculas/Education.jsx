@@ -1,4 +1,3 @@
-import moduleStyle from "../../assets/styles/cv.module.css";
 import ProfileSubtitle from "../atoms/ProfileSubtitle";
 import ProfileEducation from "../atoms/ProfileEducation";
 import { data } from "../../data/data";
